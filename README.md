@@ -1,16 +1,64 @@
-# Todolist
+# 📝 Todolist
 
-A new Flutter project.
+Um aplicativo de lista de tarefas simples e elegante desenvolvido com Flutter.
 
-## Getting Started
+<img width="461" height="913" alt="Todolist App Screenshot" src="https://github.com/user-attachments/assets/d68cf6ad-ed26-4b08-ab7b-ed7dc0m24a60" />
 
-This project is a starting point for a Flutter application.
+## ✨ Funcionalidades
 
-A few resources to get you started if this is your first Flutter project:
+- ✅ Adicionar novas tarefas
+- ✏️ Editar tarefas existentes
+- 🗑️ Remover tarefas
+- ☑️ Marcar tarefas como concluídas
+- 💾 Persistência de dados local
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🚀 Tecnologias
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Flutter** - Framework de desenvolvimento
+- **Dart** - Linguagem de programação
+
+## 📋 Pré-requisitos
+
+- Flutter SDK (versão 3.0 ou superior)
+- Dart SDK
+- Android Studio / VS Code
+- Emulador ou dispositivo físico
+
+## 🔧 Instalação
+
+1. Clone o repositório:
+```bash
+git clone [url-do-repositorio]
+cd todolist
+```
+
+2. Instale as dependências:
+```bash
+flutter pub get
+```
+
+3. Execute o aplicativo:
+```bash
+flutter run
+```
+
+## 📱 Plataformas Suportadas
+
+- ✅ Android
+- ✅ iOS
+- ✅ Web
+- ✅ Desktop (Windows, macOS, Linux)
+
+## 🤝 Contribuindo
+
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests.
+
+## 📄 Licença
+
+Este projeto está sob a licença MIT.
+
+## 📚 Recursos Úteis
+
+- [Documentação Flutter](https://docs.flutter.dev/)
+- [Lab: Primeiro app Flutter](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Exemplos Flutter](https://docs.flutter.dev/cookbook)
