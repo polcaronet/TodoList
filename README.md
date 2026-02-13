@@ -2,7 +2,7 @@
 
 Um aplicativo de lista de tarefas simples e elegante desenvolvido com Flutter.
 
-<img width="461" height="913" alt="Todolist App Screenshot" src="https://github.com/user-attachments/assets/d68cf6ad-ed26-4b08-ab7b-ed7dc0m24a60" />
+<img width="418" height="882" alt="Todolist App Screenshot" src="https://github.com/user-attachments/assets/670d0b4f-d4c6-4727-9608-d01ba37b4ced" />
 
 ## ✨ Funcionalidades
 
