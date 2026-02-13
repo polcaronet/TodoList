@@ -1,0 +1,60 @@
+name: todolist
+description: "A new Flutter project."
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  flutter_localizations:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  provider: ^6.1.2
+  tuple: ^2.0.2
+  sqflite: ^2.4.2
+  synchronized: ^3.4.0
+  path: ^1.9.1
+  nester: ^1.2.2
+  nested_scroll_view_plus: ^3.0.0
+  google_fonts: ^6.3.2
+  flutter_signin_button: ^2.1.1
+  firebase_core: ^3.15.2
+  firebase_auth: ^5.7.0
+  firebase_database: ^11.3.10
+  firebase_storage: ^12.4.10
+  validatorless: ^1.2.5
+  flutter_overlay_loader: ^2.0.0
+  google_sign_in: ^6.3.0
+  image_picker: ^1.2.0
+  path_provider: ^2.1.5
+  http: ^1.1.0
+  crypto: ^3.0.3
+  fluttericon: ^2.0.0
+  date_picker_timeline: ^1.2.7
+  crop_your_image: ^2.0.0
+  intl: ^0.20.2
+  flutter_syntax_view: ^4.0.0 
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/logo.png
+
+  fonts:
+    - family: TodoListIcons
+      fonts:
+        - asset: assets/fonts/TodoListIcons.ttf
+
+
+  

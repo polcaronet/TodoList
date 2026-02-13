@@ -1,0 +1,29 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Flutter SM A107F (Dispositivo Físico)",
+      "request": "launch",
+      "type": "dart",
+      "deviceId": "R9QN30A9BBW"
+    },
+    {
+      "name": "Flutter Emulador Android",
+      "request": "launch",
+      "type": "dart",
+      "deviceId": "emulator-5554"
+    },
+    {
+      "name": "Flutter Chrome Web",
+      "request": "launch",
+      "type": "dart",
+      "deviceId": "chrome"
+    },
+    {
+      "name": "Flutter Edge Web",
+      "request": "launch",
+      "type": "dart",
+      "deviceId": "edge"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "656293652985",
+    "project_id": "appart-cb5ab",
+    "storage_bucket": "appart-cb5ab.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656293652985:android:a2dcdc2857d02ac84df528",
+        "android_client_info": {
+          "package_name": "com.polcaronet.art"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656293652985-nb4irbq2s8h4l7u6c85igitjgr2o88fa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.polcaronet.art",
+            "certificate_hash": "45431d48ce5e78b6497b970b4aab602646bae60d"
+          }
+        },
+        {
+          "client_id": "656293652985-ctkn9esae887c7qg7iga41b0ig5lr41i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCf5nTKN2OelDJ4aU0omcWcvEcou0NgPws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "656293652985-ctkn9esae887c7qg7iga41b0ig5lr41i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
